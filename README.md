@@ -7,9 +7,10 @@ Este repositorio contiene el trabajo práctico final para la asignatura de intro
 
 * Descripción: La idea consiste en desarrollar un sistema que pueda controlar la temperatura y humedad dentro del invernadero, como así también la humedad del suelo donde se encuentra la cosecha.
 
-* Materiales Implementados:
- 
-   * Placa de desarrollo STM32 Nucleo-F429ZL, con microcontrolador Arm Cortex-M4 
+* Materiales Implementados para el desarrollo:
+   
+   * Placa de desarrollo STM32 Nucleo-F429ZL, con microcontrolador Arm Cortex-M4
+   * Como entorno de desarroollo, se utilizo el IDE Mbed compiler online 
    * Sensor de Temperatura y Humedad DHT11
    * Sesor de Humedad de suelo HL69
    * Micro Servomotor SG90
@@ -18,10 +19,8 @@ Este repositorio contiene el trabajo práctico final para la asignatura de intro
    * Display alfanumerico 16X2
    * Regulador 3.3V
    * Fuente DC 5V - 700mA 
-   
-  
-## Funcionamiento del proyecto ##
 
+* Funcionamiento del proyecto:
 Ingrese en el siguiente LINK, para ver el funcionamiento del proyecto: https://www.oshwa.org/faq/
 
 
