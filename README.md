@@ -20,7 +20,8 @@ Este repositorio contiene el trabajo práctico final para la asignatura de intro
    * Regulador 3.3V
    * Fuente DC 5V - 700mA 
 
-* Video de funcionamiento: Para ver el video de funcionamiento, ingrese en el siguiente Link: https://drive.google.com/drive/folders/1CAx-wq6fWOcqm1a52pUGD1Ud9_xa-nlf?usp=sharing
+* Video de funcionamiento: 
+Para ver el video, ingrese en el siguiente Link: https://drive.google.com/drive/folders/1CAx-wq6fWOcqm1a52pUGD1Ud9_xa-nlf?usp=sharing
 
 
 
