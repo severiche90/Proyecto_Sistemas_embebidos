@@ -20,8 +20,7 @@ Este repositorio contiene el trabajo práctico final para la asignatura de intro
    * Regulador 3.3V
    * Fuente DC 5V - 700mA 
 
-* Funcionamiento del proyecto:
-Ingrese en el siguiente LINK, para ver el funcionamiento del proyecto: https://www.oshwa.org/faq/
+* Video de funcionamiento: Para ver el video de funcionamiento, ingrese en el siguiente Link: https://drive.google.com/drive/folders/1CAx-wq6fWOcqm1a52pUGD1Ud9_xa-nlf?usp=sharing
 
 
 
